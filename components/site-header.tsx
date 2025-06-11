@@ -64,7 +64,7 @@ const features = [
   },
 ];
 
-export default function SiteHeader() {
+export default function MantineHeader() {
   const [open, setOpen] = React.useState(false);
   const [showFeatures, setShowFeatures] = React.useState(false);
 
